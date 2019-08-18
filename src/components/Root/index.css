@@ -1,0 +1,25 @@
+Root {
+  text-align: center;
+}
+
+.Root-container {
+  background-color: #0f1013;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.Root-button {
+  border: none;
+  overflow: visible;
+
+  padding: 4px;
+  margin: 0 4px;
+  font-size: 18px;
+  color: #eee;
+
+  background: transparent;
+}

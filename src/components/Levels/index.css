@@ -1,0 +1,27 @@
+.Levels {
+  text-align: center;
+}
+
+.Levels-container {
+  column-count: 2;
+}
+
+.Levels-button {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 12px;
+  margin-bottom: 12px;
+  font-size: 18px;
+  color: #eee;
+
+  background-color: #464646;
+  transition: all 0.7s ease;
+}
+
+.Levels-button:hover {
+  background-color: #656565;
+}

@@ -1,0 +1,17 @@
+.Field {
+  border: none;
+  overflow: visible;
+
+  padding: 4px;
+  width: 30px;
+  height: 30px;
+  font-size: 18px;
+  color: #eee;
+
+  background-color: #222;
+  transition: all 0.7s ease;
+}
+
+.Field:hover {
+  background-color: #656565;
+}
